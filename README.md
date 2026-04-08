@@ -71,7 +71,20 @@ has become for me pretty much mandatory.
 </div>
 
 Also, my background is in Mathematics, not computer
-science.
+science, so I've always found most computer code
+to be relatively *unreadable*, given in Mathematics
+one does usually use letters, not whole words to
+refer to variables, let alone group of words joined
+with space-like characters like the *underscores*
+(`_like_this_way_for_example`).
+In this regard please let me make public I consider
+the *camel case* convention (`likeThisWayForExample`)
+extremely barbaric and barely fit for computers
+rather than humans and do not let me even start
+about how easy is for one to be reminded about another
+camel something whenever that term is being used.
+
+
 
 ## License
 
