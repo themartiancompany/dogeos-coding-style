@@ -90,7 +90,7 @@ Because of the above, I've always considered
 mandatory for one to be proficient in programming
 to have available and use *syntax highlighters*,
 without which programming is more resembling to
-torture rather than a relatively playful activity
+a torture rather than to a relatively playful activity
 like playing with construction toys.
 
 Because of the above, you can correctly imagine,
