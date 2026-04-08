@@ -207,6 +207,12 @@ because it's the minimum required to
 write a short Bash programs which is decent
 to use but for the sake of simplicity I'm not gonna.
 
+Also keep in mind, if you're reading this from
+Github, that its Bash syntax highlighter is not
+that great, so I strongly suggest reading this
+code on a good programming text editor such as
+Vim.
+
 ```bash
 #!/usr/bin/env bash
 
