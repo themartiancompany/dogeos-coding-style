@@ -87,7 +87,7 @@ about how easy is for one to be reminded about another
 camel something whenever that term is being used.
 
 Because of the above, I've always considered
-mandatory for one be proficient in programming
+mandatory for one to be proficient in programming
 to have available and use *syntax highlighters*,
 without which programming is more resembling to
 torture rather than a relatively playful activity
