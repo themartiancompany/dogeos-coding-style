@@ -52,8 +52,9 @@ irresponsible people who have played or still play
 with other people's lives as if they were less
 than humans, I've been forced to write it on terminals
 whose size does not display well more than 60-80 columns,
-respecting this short yet quite rigid set of rules
-has become for me pretty much mandatory.
+and even less rows, so that respecting this short
+yet quite rigid set of rules has become for me pretty
+much mandatory.
 
 <div
    align="center">
@@ -77,12 +78,31 @@ one does usually use letters, not whole words to
 refer to variables, let alone group of words joined
 with space-like characters like the *underscores*
 (`_like_this_way_for_example`).
-In this regard please let me make public I consider
+In this regard please let me make public I do consider
 the *camel case* convention (`likeThisWayForExample`)
 extremely barbaric and barely fit for computers
 rather than humans and do not let me even start
 about how easy is for one to be reminded about another
 camel something whenever that term is being used.
+
+Because of the above, I've always considered
+mandatory for one be proficient in programming
+to have available and use *syntax highlighters*,
+without which programming is more resembling to
+torture rather than a relatively playful activity
+like playing with construction toys.
+
+Because of the above, you can correctly imagine,
+in particular at the beginning of my programming
+journey, I've always been particularly fond of
+languages in which one can mix in the same
+document both formatted text and code, such as
+*Jupyter notebooks* (`.ipynb`); more generally
+I've always found the approach of the *Python*
+programming language, in which lexemes' relative
+positioning uniquely determines their semantic
+role in the code.
+
 
 
 
