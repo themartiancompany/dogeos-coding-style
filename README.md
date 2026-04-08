@@ -37,7 +37,7 @@ As Torvalds
   https://docs.kernel.org/process/coding-style.html),
 coding style is very personal so I also won't force
 my views onto contributors as not even me always
-abide to them, still it's quite possible if somebody
+abide to it, still it's quite possible if somebody
 will ever send me code to review, I will very much
 ask the sender to please format it in such
 a way I can deem it *readable*.
