@@ -142,9 +142,9 @@ on.
 So, being that Bash is really a language for the
 shell and its interpreter is virtually preinstalled
 literally any device on the market,
-it couldn't but become my language of election,
-even though actually Bash is not even the default
-shell of my terminal.
+it couldn't but become my language of election
+(even though actually it is not even the default
+shell of my terminal).
 
 I mean, for now, who knows about the future.
 
