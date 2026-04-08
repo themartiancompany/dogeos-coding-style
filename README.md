@@ -39,7 +39,7 @@ coding style is very personal so I also won't force
 my views onto contributors, still it's quite possible
 if somebody will ever send me code to review, I will
 very much ask the sender to please format it in such
-a way I will find *readable*.
+a way I can deem it *readable*.
 
 Let me premise I've never been really strict with
 this stuff; still, since DogeOS is an *operating
