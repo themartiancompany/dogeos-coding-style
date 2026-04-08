@@ -139,9 +139,9 @@ inevitably becomes the one I do like the most,
 same as when during university I ended up
 liking the most the field I did spend more time
 on.
-So, being that Bash is really a shell commands
-language though and its interpreter is virtually
-preinstalled literally any device on the market,
+So, being that Bash is really a language for the
+shell and its interpreter is virtually preinstalled
+literally any device on the market,
 it couldn't but become my language of election.
 
 I mean, for now, who knows about the future.
