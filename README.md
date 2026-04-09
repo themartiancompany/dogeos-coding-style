@@ -152,7 +152,7 @@ So, anyway, the coding style rules.
 
 These rules are mainly intended for Bash
 code but really they can be applied in almost
-any programming language and I suggest doing
+all programming languages and I suggest doing
 so in order to minimize the differences
 between them and among other things, facilitate
 automatic conversion between them, where appliable.
