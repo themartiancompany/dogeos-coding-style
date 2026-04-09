@@ -361,9 +361,9 @@ _usage() {
     ""
     "  options:"
     "     -s <start>      Segment start."
-                          Default: ${segment_start}"
+    "                     Default: ${segment_start}"
     "     -l <length>     Segment length."
-                          Default: ${segment_length}"
+    "                     Default: ${segment_length}"
     "     -h              This message."
     "     -v              Enable verbose output."
   )
