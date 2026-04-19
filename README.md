@@ -357,8 +357,8 @@ _usage() {
     "Usage:"
     ""
     "  play-movie-segment"
-    "    [options]
-    "    <target-movie>
+    "    [options]"
+    "    <target-movie>"
     ""
     "  options:"
     "     -s <start>      Segment start."
