@@ -208,7 +208,7 @@ smashed by a bunch of greedy masters*.
 Honestly I think this example really should use the
 [Crash Bash](
   https://github.com/themartiancompany/crash-bash)
-because it's the minimum required to
+library because it's the minimum required to
 write a short Bash programs which is decent
 to use but for the sake of simplicity I'm not gonna.
 
@@ -321,13 +321,13 @@ _play_movie_segment() {
 }
 
 _set_overrides() {
-  if [[ ! -v "${quiet}" ]]; then
+  if [[ ! -v quiet" ]]; then
     quiet="y"
   fi
-  if [[ ! -v "${segment_start}" ]]; then
+  if [[ ! -v "segment_start" ]]; then
     segment_start="0"
   fi
-  if [[ ! -v "${segment_length}" ]]; then
+  if [[ ! -v "segment_length" ]]; then
     segment_length="10"
   fi
 }
