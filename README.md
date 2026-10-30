@@ -240,7 +240,7 @@ _requirements() {
       -v \
       "medialength" || \
     true)"
-  if [[ "${_mediaclip}" == "" ]]; then
+  if [[ "${_medialength}" == "" ]]; then
     _msg=(
       "Install the program"
       "'mediaclip' from the"
