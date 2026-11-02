@@ -26,6 +26,8 @@
 [comment]: <> (with this program. If not, see)
 [comment]: <> (<https://www.gnu.org/licenses/>.)
 
+# DogeOS Coding Style Guide
+
 <div
    align="center">
   <a
@@ -36,8 +38,6 @@
     />
   </a>
 </div>
-
-# DogeOS Coding Style Guide
 
 This document describes the preferred coding style for
 [DogeOS](
