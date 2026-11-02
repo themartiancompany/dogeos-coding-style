@@ -32,6 +32,17 @@ This document describes the preferred coding style for
 [DogeOS](
   https://github.com/themartiancompany/dogeos).
 
+<div
+   align="center">
+  <a
+     href="https://github.com/themartiancompany/dogeos">
+    <img
+       src="https://raw.githubusercontent.com/themartiancompany/dogeos-data/c17f4d8ab98863c48d20e8d742861753278f2cc4/dogeos-landscape.png"
+       width="500"
+    />
+  </a>
+</div>
+
 As Torvalds
 [remarks](
   https://docs.kernel.org/process/coding-style.html),
