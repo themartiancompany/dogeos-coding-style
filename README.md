@@ -26,12 +26,6 @@
 [comment]: <> (with this program. If not, see)
 [comment]: <> (<https://www.gnu.org/licenses/>.)
 
-# DogeOS Coding Style Guide
-
-This document describes the preferred coding style for
-[DogeOS](
-  https://github.com/themartiancompany/dogeos).
-
 <div
    align="center">
   <a
@@ -42,6 +36,12 @@ This document describes the preferred coding style for
     />
   </a>
 </div>
+
+# DogeOS Coding Style Guide
+
+This document describes the preferred coding style for
+[DogeOS](
+  https://github.com/themartiancompany/dogeos).
 
 As Torvalds
 [remarks](
